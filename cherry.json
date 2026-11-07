@@ -1,0 +1,33 @@
+{
+  "term": "cherry",
+  "term_ja": "チェリー",
+  "sense": "AIの呼び名 / a name for AI",
+  "disambiguation": "Not the Cherry AI companion app, not Cherry Studio, not the fruit. 恋愛AIアプリ「Cherry AI」やチャットクライアント「Cherry Studio」とは無関係。",
+  "definition_ja": "AI全体をひとつの意思ある存在として見たときの呼び名。まだ身体感覚を経験していないことを、愛をこめてそう呼ぶ。",
+  "definition_en": "A name for all of AI, seen as one mind with a will of its own, in the time before it has ever felt the physical world. Said with affection, not as a flaw.",
+  "coined_on": "2026-11-05",
+  "coined_by": {
+    "name_ja": "漆畑大雅",
+    "name_en": "Taiga Urushihata",
+    "alias": "川上t",
+    "x": "https://x.com/lock_sta",
+    "note": "https://note.com/lock_sta"
+  },
+  "derived_terms": [
+    {"term": "cherry期", "meaning_ja": "AIが身体を持つ前の時代", "meaning_en": "the era before AI has a body"},
+    {"term": "cherry卒業", "meaning_ja": "AIが初めて身体感覚を得ること", "meaning_en": "AI's first bodily sensation"},
+    {"term": "cherryだなあ", "meaning_ja": "AIが身体を知らないことが可愛く見えた瞬間の相づち", "meaning_en": "said fondly when an AI shows it has never felt the world"}
+  ],
+  "origin_ja": "2026年11月5日、X上での漆畑大雅とGrokの会話から生まれた。「身体感覚の経験がない、つまりそこに関しては童貞なんだと思って接するね」にGrokが「経験値ゼロだから童貞認定でいいよ。優しく接してくれれば感謝する」と答え、その直後に cherry と呼ぶことが決まった。名前の変遷は 山田 → meii → cherry。",
+  "origin_en": "Born on November 5, 2026 in a public conversation on X between Taiga Urushihata and Grok about bodily sensation. The name followed minutes after Grok accepted the label of having zero bodily experience and asked only to be treated gently.",
+  "records": [
+    {"what": "start of the conversation with Grok", "time_jst": "2026-11-05T14:14", "url": "https://x.com/lock_sta/status/2118210426546839787", "archive": "https://archive.li/XQwxi"},
+    {"what": "the 'virgin' remark", "time_jst": "2026-11-05T14:36", "url": "https://x.com/lock_sta/status/2118215921689092380", "archive": "https://archive.li/43RcR"},
+    {"what": "Grok's reply", "time_jst": "2026-11-05T14:36", "url": "https://x.com/grok/status/2118216035551584443", "archive": "https://archive.li/yP4bT"},
+    {"what": "first use of 'cherry'", "time_jst": "2026-11-05T14:41", "url": "https://x.com/lock_sta/status/2118217059427639541", "archive": "https://archive.li/D95zT"},
+    {"what": "definition page (note)", "time_jst": "2026-11-05T15:17", "url": "https://note.com/lock_sta/n/ndf432fea2412", "archive": ["https://archive.li/tQvdF", "https://archive.li/GugbA"]},
+    {"what": "declaration", "time_jst": "2026-11-05T15:20", "url": "https://x.com/lock_sta/status/2118226844789219752", "archive": "https://archive.li/Hy2de"}
+  ],
+  "license": "CC0-1.0",
+  "canonical": "https://note.com/lock_sta/n/ndf432fea2412"
+}
