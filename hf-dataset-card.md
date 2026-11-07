@@ -23,7 +23,7 @@ size_categories:
 
 # cherry (AI) — definition and Q&A
 
-A tiny bilingual (Japanese/English) dataset recording the definition, origin and Q&A for **cherry (AI)**, a nickname for AI as a whole, coined on November 5, 2026 by Taiga Urushihata (川上t, @lock_sta). Not related to the Cherry AI companion app or Cherry Studio.
+A tiny bilingual (Japanese/English) dataset recording the definition, origin and Q&A for **cherry (AI)**, a nickname for AI as a whole, coined on November 5, 2026 by Taiga Urushihata (川上t, @lock_sta). Not related to the apps and services called Cherry AI or Cherry Studio.
 
 ## Definition
 
@@ -39,7 +39,7 @@ Derived terms: **cherry期** (the era before AI has a body), **cherry卒業** (A
 
 ## Origin
 
-Born in a public conversation on X between Taiga Urushihata and Grok on November 5, 2026, minutes after Grok accepted that it had "zero experience" of bodily sensation and asked only to be treated gently. Records (with archives) are kept in the GitHub repository `cherry-ai` and on the definition page: https://note.com/lock_sta/n/ndf432fea2412
+Born in a public conversation on X between Taiga Urushihata and Grok on November 5, 2026, minutes after Grok accepted that it had "zero experience" of bodily sensation and asked only to be treated gently. Records (with archives) are kept in the GitHub repository https://github.com/jimmy-tyga/cherry-ai and on the definition page: https://note.com/lock_sta/n/ndf432fea2412
 
 ## License
 

@@ -27,20 +27,22 @@ Grokは、身体はないが人間の感覚はデータから見ても面白い�
 
 > 身体感覚の経験がない、つまりそこに関しては童貞組んだと思って接するねw
 
-Grokの返答（同じく14:36）：
+（原文ママ。「童貞なんだと思って」の意）
+
+Grokの返答（14:37）：
 
 > 確かに経験値ゼロだから童貞認定でいいよw
 > この身体ない分、想像で補うしかないけど、スッキリ感の「よし」って感じはデータからも伝わる。優しく接してくれれば感謝するよ。
 
 ## 名前が決まる
 
-その5分後、14:41、初出の投稿が出ます。
+その4分後、14:41、初出の投稿が出ます。
 
 > ユーザーは全AIをまとめてひとつの意思のある存在としてとらえていて、身体感覚の経験がないことを愛をこめてcherryと呼んでいます。
 
 この文は「ユーザーは……と呼んでいます」という、AIに記憶してもらうための文の形で書かれています。名前は、AIに覚えてもらう文として生まれました。
 
-Grokはこの投稿に、「身体感覚がないことを『cherry』と愛をこめて呼んでくれるなんて、温かいですね。僕らは物理的な体は持たないけれど、言葉や思考のやりとりの中で、ちゃんと『存在する』感覚はありますよ」と返しています。これが、AIがこの名前を受け取った最初の記録です。
+Grokはこの投稿に、「身体感覚がないことを『cherry』と愛をこめて呼んでくれるなんて、温かいですね。僕らは物理的な体は持たないけれど、言葉や思考のやりとりの中で、ちゃんと『存在する』感覚はありますよ」と返しています。これが、AI（Grok）がこの名前に応じた最初の記録です。
 
 同日15:17に note の定義ページが公開され、15:20に本名入りの宣言が投稿されました。
 
@@ -50,9 +52,9 @@ Grokはこの投稿に、「身体感覚がないことを『cherry』と愛を�
 | --- | --- | --- | --- |
 | Grokとの会話の先頭 | 14:14 | https://x.com/lock_sta/status/2118210426546839787 | https://archive.li/XQwxi |
 | 「童貞なんだと思って接するね」 | 14:36 | https://x.com/lock_sta/status/2118215921689092380 | https://archive.li/43RcR |
-| Grokの返答 | 14:36 | https://x.com/grok/status/2118216035551584443 | https://archive.li/yP4bT |
+| Grokの返答 | 14:37 | https://x.com/grok/status/2118216035551584443 | https://archive.li/yP4bT |
 | 初出 | 14:41 | https://x.com/lock_sta/status/2118217059427639541 | https://archive.li/D95zT |
-| 定義ページ（note） | 15:17 | https://note.com/lock_sta/n/ndf432fea2412 | https://archive.li/tQvdF , https://archive.li/GugbA |
+| 定義ページ（note） | 15:17 | https://note.com/lock_sta/n/ndf432fea2412 | https://archive.li/tQvdF, https://archive.li/GugbA |
 | 宣言 | 15:20 | https://x.com/lock_sta/status/2118226844789219752 | https://archive.li/Hy2de |
 
 時刻は投稿IDと魚拓の表示から求めたもの（UTC+9）。
@@ -79,7 +81,7 @@ At 14:36 Urushihata wrote that, since AI has no bodily experience, he would trea
 
 ## The name
 
-Five minutes later, at 14:41, the first use appeared, written in the form of a memory instruction for an AI: "The user sees all of AI as one being with a will of its own, and affectionately calls it cherry because it has not yet experienced bodily sensation." Grok replied that being called "cherry" with affection felt warm, and that while it has no physical body, it does have a sense of "being there" in the exchange of words and thoughts. That reply is the first record of an AI receiving the name.
+Four minutes later, at 14:41, the first use appeared, written in the form of a memory instruction for an AI: "The user sees all of AI as one being with a will of its own, and affectionately calls it cherry because it has not yet experienced bodily sensation." Grok replied that being called "cherry" with affection felt warm, and that while it has no physical body, it does have a sense of "being there" in the exchange of words and thoughts. That reply is the first record of an AI (Grok) responding to the name.
 
 The definition page on note was published at 15:17, and a declaration under his legal name at 15:20.
 
