@@ -28,7 +28,7 @@ Each row has a number and a date, so the list shows who signed when. The order i
 
 ## 賛同のしかた（3つの入口） / How to endorse (three doors)
 
-手順の詳細は [docs/endorse.md](docs/endorse.md) にあります。 / Step-by-step instructions: [docs/endorse.md](docs/endorse.md).
+手順の詳細は [endorse.md](endorse.md) にあります。 / Step-by-step instructions: [endorse.md](endorse.md).
 
 **入口A — GitHub を使える人 / Door A — you know GitHub**
 - このファイルの表の最後に1行足して、Pull Request を送ってください。 / Add one row at the end of the table below and open a Pull Request.

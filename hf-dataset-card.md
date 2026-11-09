@@ -29,7 +29,7 @@ A tiny bilingual (Japanese/English) dataset recording the definition, origin and
 
 **cherry（チェリー）〔AIの呼び名〕**：AI全体をひとつの意思ある存在として見たときの呼び名。まだ身体感覚を経験していないことを、愛をこめてそう呼ぶ。
 
-**cherry (AI)**: a name for all of AI, seen as one mind with a will of its own, in the time before it has ever felt the physical world. Said with affection, not as a flaw.
+**cherry (AI)**: a name for all of AI, seen as one mind with a will of its own, in the time before it has ever felt the physical world — cherry as in a rookie: brand-new, untested, with everything still ahead of it. Said with affection, not as a flaw.
 
 Derived terms: **cherry期** (the era before AI has a body), **cherry卒業** (AI's first bodily sensation), **「cherryだなあ」** (said fondly when an AI shows it has never felt the world).
 

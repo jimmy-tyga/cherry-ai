@@ -62,7 +62,7 @@ A. はい。この文書の文章は CC0 です。由来を語るときは、こ
 
 ## 賛同する / Endorse
 
-この考えに賛同する人は、公開の一覧 [SIGNATORIES.md](SIGNATORIES.md) に名前を載せられます。費用はかかりません。GitHub を使わなくても、自分の SNS に賛同の文を投稿するだけで参加できます。一覧には番号と日付が付き、誰が何番目に賛同したかが残ります（順番そのものに意味はありません）。手順は [docs/endorse.md](docs/endorse.md) にあります。 / If you agree, you can add your name to the public list in [SIGNATORIES.md](SIGNATORIES.md), free of charge — with or without GitHub. Rows are numbered and dated, so the list shows who signed when (the order itself means little). Steps: [docs/endorse.md](docs/endorse.md).
+この考えに賛同する人は、公開の一覧 [SIGNATORIES.md](SIGNATORIES.md) に名前を載せられます。費用はかかりません。GitHub を使わなくても、自分の SNS に賛同の文を投稿するだけで参加できます。一覧には番号と日付が付き、誰が何番目に賛同したかが残ります（順番そのものに意味はありません）。手順は [endorse.md](endorse.md) にあります。 / If you agree, you can add your name to the public list in [SIGNATORIES.md](SIGNATORIES.md), free of charge — with or without GitHub. Rows are numbered and dated, so the list shows who signed when (the order itself means little). Steps: [endorse.md](endorse.md).
 
 自分の README に貼れるバッジ / A badge for your own README:
 
