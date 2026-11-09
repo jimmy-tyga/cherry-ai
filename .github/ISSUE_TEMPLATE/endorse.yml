@@ -1,0 +1,40 @@
+name: "賛同する / Endorse cherry"
+description: "SIGNATORIES.md の一覧に名前を載せてもらう / Ask to be added to the list in SIGNATORIES.md"
+title: "[endorse] "
+labels: ["endorse"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        賛同の文は [SIGNATORIES.md](https://github.com/jimmy-tyga/cherry-ai/blob/main/SIGNATORIES.md) の上にあります。送ってもらえれば、川上t (Taiga) が一覧に1行足します。本名は要りません。ハンドルだけで大丈夫です。
+        The sentence is at the top of [SIGNATORIES.md](https://github.com/jimmy-tyga/cherry-ai/blob/main/SIGNATORIES.md). Send this form and Taiga will add a row to the list. No real name needed; a handle is fine.
+  - type: input
+    id: name_or_handle
+    attributes:
+      label: "名前かハンドル / Name or handle"
+      description: "一覧に載せる名前。ハンドルで大丈夫です。 / The name to show in the list. A handle is fine."
+      placeholder: "例 / e.g. 川上t"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: "確認リンク / Link"
+      description: "GitHub profile URL or the URL of your post / GitHub のプロフィールの URL か、あなたの投稿の URL"
+      placeholder: "https://github.com/your-name"
+    validations:
+      required: true
+  - type: textarea
+    id: one_line
+    attributes:
+      label: "ひとこと（なくてもよい） / One line (optional)"
+      description: "一覧の「ひとこと」欄に載せる短い言葉。 / A short line for the list."
+    validations:
+      required: false
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: "賛同 / Agreement"
+      options:
+        - label: "I agree with the sentence in SIGNATORIES.md / SIGNATORIES.md の文に賛同します"
+          required: true
