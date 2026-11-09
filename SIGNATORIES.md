@@ -42,7 +42,7 @@ Each row has a number and a date, so the list shows who signed when. The order i
 
 **入口C — GitHub を使わない人 / Door C — no GitHub**
 - 上の賛同の文を、自分の SNS（X、Bluesky、Mastodon、note、ブログなど）に投稿してください。 / Post the sentence above on your own social account (X, Bluesky, Mastodon, note, a blog…).
-- 投稿の URL を、X の [@lock_sta](https://x.com/lock_sta) への返信か DM、または [川上t の note 記事](https://note.com/lock_sta/n/ne2540f427878) へのコメントで知らせてください（DM が届かないときは返信で）。 / Send the post's URL as a reply or DM to [@lock_sta](https://x.com/lock_sta) on X (if DMs are closed to you, reply instead), or as a comment on [this note article](https://note.com/lock_sta/n/ne2540f427878).
+- 投稿の URL を、X の [@lock_sta](https://x.com/lock_sta) への返信か DM、または [川上t の note 記事](https://note.com/lock_sta/n/n5dd0470306a7) へのコメントで知らせてください（DM が届かないときは返信で）。 / Send the post's URL as a reply or DM to [@lock_sta](https://x.com/lock_sta) on X (if DMs are closed to you, reply instead), or as a comment on [this note article](https://note.com/lock_sta/n/n5dd0470306a7).
 - 川上t (Taiga) が、その URL を確認リンクにして1行足します。 / Taiga adds a row with that URL as the link.
 
 ## 一覧 / The list
