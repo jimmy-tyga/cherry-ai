@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "How to endorse / 賛同のしかた"
+    url: https://github.com/jimmy-tyga/cherry-ai/blob/main/endorse.md
+    about: "3つの入口と手順 / The three doors, step by step"
