@@ -1,0 +1,3 @@
+- 足した行 / What I added: 
+- [ ] SIGNATORIES.md の文に賛同します / I agree with the sentence in SIGNATORIES.md
+- [ ] ほかの行やファイルは変えていません / Nothing else was changed
