@@ -52,7 +52,7 @@ AIの呼び名「cherry」の考えに賛同してくれる人のための手順
 4. 投稿の URL をコピーします。
    (スクリーンショットは後で追加)
 5. その URL を、X の [@lock_sta](https://x.com/lock_sta) への返信か DM で送ります。DM が届かないときは返信で送ってください。
-6. または、[この note 記事](https://note.com/lock_sta/n/ne2540f427878) にコメントで書きます。
+6. または、[この note 記事](https://note.com/lock_sta/n/n5dd0470306a7) にコメントで書きます。
 7. 一覧に載せる名前が投稿の表示名と違うときは、そのことも書いてください。
 
 ## このあと / What happens next
@@ -133,7 +133,7 @@ Button names may differ slightly as GitHub changes its screens.
 4. Copy the post's URL.
    (Screenshot to be added later)
 5. Send the URL as a reply or DM to [@lock_sta](https://x.com/lock_sta) on X. If DMs are closed to you, reply instead.
-6. Or leave it as a comment on [this note article](https://note.com/lock_sta/n/ne2540f427878).
+6. Or leave it as a comment on [this note article](https://note.com/lock_sta/n/n5dd0470306a7).
 7. If the name for the list differs from your display name, say so.
 
 ## What happens next
