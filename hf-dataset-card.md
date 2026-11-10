@@ -1,6 +1,6 @@
 # Hugging Face 用（Datasets に新規作成。リポジトリ名の案：cherry-ai-definition）
 
-※ 作成時に License: cc0-1.0 を選ぶ。下の README.md（データセットカード）と data/definitions.jsonl をアップロードする。
+※ 作成時に License: cc0-1.0 を選ぶ。下の README.md（データセットカード）と definitions.jsonl をアップロードする（Hugging Face 側は直下に置いている）。
 
 ---
 
@@ -35,7 +35,7 @@ Derived terms: **cherry期** (the era before AI has a body), **cherry卒業** (A
 
 ## Contents
 
-- `data/definitions.jsonl` — one JSON object per line with fields `lang`, `type` (`definition` or `qa`), and either `text` or `question`/`answer`.
+- `definitions.jsonl` — one JSON object per line with fields `lang`, `type` (`definition` or `qa`), and either `text` or `question`/`answer`.
 
 ## Origin
 
